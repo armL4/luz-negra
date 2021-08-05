@@ -4,8 +4,11 @@ margin: 0%;
 font-family: 'Staatliches', cursive;
 }
 
-.fondo{background-color: black;}
-@mixin selector {
+.fondo{
+  background-color: black;
+}
+
+@mixin selector {     
   
 
 body {
